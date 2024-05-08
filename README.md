@@ -1,4 +1,4 @@
-# React - ECommerce-Myshop
+# React-ECommerce-Myshop
 * React 18.2.0
 * React-dom18.2.0
 * React-icons 4.12.0
